@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/description_linear_Layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--   Header-->
+        <TextView
+            android:id="@+id/txtBMIHeader"
+            android:layout_width="match_parent"
+            android:layout_height="69dp"
+            android:background="@color/color_monogram"
+            android:fontFamily="monospace"
+            android:gravity="center_vertical"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:text="@string/app_header"
+            android:textColor="@android:color/primary_text_dark"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="32dp" />
+
+        <!--    Gender-->
+        <RadioGroup
+            android:id="@+id/genderRadioGroup"
+            android:layout_width="320dp"
+            android:layout_height="103dp"
+            android:layout_marginTop="28dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:textAlignment="center"
+            app:layout_constraintTop_toBottomOf="@+id/txtBMIHeader"
+            tools:layout_editor_absoluteX="45dp">
+
+            <TextView
+                android:id="@+id/textViewGender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/gender_text"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/radioButtonMale"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/gender_male"
+                android:textSize="14sp" />
+
+            <RadioButton
+                android:id="@+id/radioButtonFemale"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/gender_female"
+                android:textSize="14sp" />
+        </RadioGroup>
+
+        <!--    Weight & Height-->
+        <TableLayout
+            android:id="@+id/tableLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:padding="20dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            app:layout_constraintTop_toBottomOf="@+id/genderRadioGroup"
+            tools:layout_editor_absoluteX="0dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/lbl_Weight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/label_weight" />
+
+                <EditText
+                    android:id="@+id/txt_Weight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:autofillHints="Weight"
+                    android:ems="3"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:labelFor="@id/lbl_Weight" />
+
+                <TextView
+                    android:id="@+id/lbl_weight_unit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:gravity="center"
+                    android:text="@string/Imperial_lbs" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/lbl_Height"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/label_height" />
+
+                <EditText
+                    android:id="@+id/txt_Height"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:ems="3"
+                    android:gravity="center"
+                    android:inputType="number" />
+
+                <TextView
+                    android:id="@+id/lbl_height_unit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:gravity="center"
+                    android:text="@string/Imperial_feet" />
+
+                <EditText
+                    android:id="@+id/txt_Height_inch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:ems="3"
+                    android:gravity="center"
+                    android:inputType="number" />
+
+                <TextView
+                    android:id="@+id/lbl_height_unit_inch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:gravity="center"
+                    android:text="@string/Imperial_inch" />
+
+            </TableRow>
+
+        </TableLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--    Add button for BMI-->
+            <Button
+                android:id="@+id/btn_CalculateBMI"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@color/color_monogram"
+                android:onClick="btnBMI_Clicked"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:text="@string/button_name"
+                android:textAlignment="center"
+                android:textColor="@color/colorWhite" />
+
+            <!--  Setting Button-->
+            <Button
+                android:id="@+id/btnSettings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@color/color_monogram"
+                android:onClick="btnSetting_Clicked"
+                android:text="@string/settings"
+                android:textColor="@color/colorWhite" />
+
+            <!--  About Button-->
+            <Button
+                android:id="@+id/btnAbout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@color/color_monogram"
+                android:onClick="btnAbout_Clicked"
+                android:text="@string/about"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <!--    Add textview for showing result-->
+        <TextView
+            android:id="@+id/txt_Result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="20dp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

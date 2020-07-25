@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Body Mass Index(BMI)</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="app_header">BMI Calculator</string>
+    <string name="gender_text">Select your gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="label_height">Height</string>
+    <string name="label_weight">Weight</string>
+    <string name="button_name"> Calculate BMI </string>
+    <string name="settings_unit_default_value">Metrics</string>
+
+    <string name="Imperial_inch">inch</string>
+    <string name="Imperial_feet">feet</string>
+    <string name="Imperial_lbs">lbs</string>
+    <string name="metrics_kg">kg</string>
+    <string name="metrics_cm">cm</string>
+
+    <string-array name="unit_list">
+        <item>Metrics</item>
+        <item>Imperial</item>
+    </string-array>
+    <string-array name="unit_list_values">
+        <item>Metrics</item>
+        <item>Imperial</item>
+    </string-array>
+    <string name="title_activity_user_settings">Settings</string>
+    <string name="about_description">Body mass index (BMI) is a value derived from the
+        mass (weight) and height of a person. The BMI is defined as the body mass divided by
+        the square of the body height, and is universally expressed in units of kg/m2,
+        resulting from mass in kilograms and height in metres.  -Wikipedia</string>
+    <string name="done">Done</string>
+    <string name="bmi_range_1">Less than 18.5</string>
+    <string name="bmi_range_1_desc">Underweight</string>
+    <string name="bmi_range_2">Between 18.5 and 25</string>
+    <string name="bmi_range_2_desc">Healthy</string>
+    <string name="bmi_range_3">Between 25 and 30</string>
+    <string name="bmi_range_3_desc">Overweight</string>
+    <string name="bmi_range_4">More than 30</string>
+    <string name="bmi_range_4_desc">Obese</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>

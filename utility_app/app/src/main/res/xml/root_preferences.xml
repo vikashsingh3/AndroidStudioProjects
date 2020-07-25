@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="Unit">
+
+        <ListPreference
+            app:defaultValue="@string/settings_unit_default_value"
+            app:entries="@array/unit_list"
+            app:entryValues="@array/unit_list_values"
+            app:key="unit"
+            app:title="Unit"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Background Color">
+
+        <SwitchPreferenceCompat
+            app:defaultValue="false"
+            app:key="background_setting"
+            app:summaryOff="White background"
+            app:summaryOn="Black background"
+            app:title="Dark Mode Setting" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

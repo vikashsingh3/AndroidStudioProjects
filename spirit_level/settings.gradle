@@ -1,0 +1,2 @@
+rootProject.name='spirit_level'
+include ':app'

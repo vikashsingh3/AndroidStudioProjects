@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geography Quiz</string>
+    <string name="leaderBoard">Leaderboard</string>
+    <string name="options">Options</string>
+    <string name="play">Play</string>
+    <string name="quiz_world">Welcome to Quiz World!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="music_setting">music_setting</string>
+    <string name="player_name">Your Name</string>
+    <string name="player_info">Player Info</string>
+    <string name="quiz_image">quiz_image</string>
+    <string name="button">Button</string>
+    <string name="game_over">Game Over</string>
+    <string name="twitter">twitter</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="question_1">Question: 1</string>
+    <string name="score_0">Score: 0</string>
+    <string name="close">Close</string>
+</resources>
