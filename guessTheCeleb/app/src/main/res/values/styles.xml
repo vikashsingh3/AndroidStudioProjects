@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- For Spinner -->
+        <item name="android:spinnerItemStyle">@style/headline</item>
+        <item name="android:spinnerDropDownItemStyle">@style/headline</item>
+    </style>
+
+    <style name="headline" parent="TextAppearance.AppCompat.Display2">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <!-- Large  -->
+    <style name="large" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">1_GuessTheCeleb</string>
+    <string name="celeb_image">Celeb image</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_level">Level Selected: Easy</string>
+    <string name="btn_play">Play!</string>
+    <string name="txt_time_remaining">Time remaining: 0 seconds</string>
+    <string name="txt_Score">Score: 0/0</string>
+    <string name="easy">Easy</string>
+    <string name="option_message">Select one option</string>
+    <string-array name="game_level_options">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Expert</item>
+    </string-array>
+</resources>
