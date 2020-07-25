@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoleyApp</string>
+    <string name="imagename">imageName</string>
+    <string name="done">Done</string>
+</resources>
