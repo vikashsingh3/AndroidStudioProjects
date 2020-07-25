@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorUnderweight">#0000ff</color>
+    <color name="colorHealthy">#008000</color>
+    <color name="colorOverweight">#FFBF00</color>
+    <color name="colorObese">#FF0000</color>
+    <color name="colorError">#FF0000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="color_monogram">#009688</color>
+    <color name="colorGrey">#808080</color>
+</resources>

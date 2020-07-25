@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    android:orientation="vertical"
+    tools:context=".game_activity.LeaderboardActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="9"
+            android:paddingTop="10dp"
+            android:text="@string/leaderBoard"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textStyle="bold|italic" />
+
+        <ImageButton
+            android:id="@+id/close"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:clickable="true"
+            android:contentDescription="@string/close"
+            android:focusable="true"
+            android:onClick="btn_Close"
+            android:src="@android:drawable/ic_menu_close_clear_cancel" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9">
+
+        <GridLayout
+            android:id="@+id/leaderboard_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="3" />
+
+    </ScrollView>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,4 @@
+#Mon May 11 23:06:06 AEST 2020
+base.0=D\:\\AndroidStudioProjects\\SoundPoolDemo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

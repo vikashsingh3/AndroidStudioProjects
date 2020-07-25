@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_local_airport_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_local_airport_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_local_pharmacy_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_local_pharmacy_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_fastfood_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_fastfood_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_dialpad_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_dialpad_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_local_airport_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_local_airport_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_local_airport_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_local_airport_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_local_grocery_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_local_grocery_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_headset_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_headset_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_local_grocery_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_local_grocery_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_local_drink_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_local_drink_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_headset_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_headset_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_free_breakfast_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_free_breakfast_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_local_drink_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_local_drink_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_local_airport_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_local_airport_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\layout_checkboxes.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\layout\\checkboxes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_local_grocery_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_local_grocery_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_bluetooth_searching_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_bluetooth_searching_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_fastfood_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_fastfood_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_headset_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_headset_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_dialpad_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_dialpad_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_dialpad_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_dialpad_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_local_drink_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_local_drink_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_insert_emoticon_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_insert_emoticon_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_dialpad_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_dialpad_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_headset_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_headset_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_insert_emoticon_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_insert_emoticon_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_fastfood_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_fastfood_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_free_breakfast_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_free_breakfast_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_local_grocery_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_local_grocery_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_insert_emoticon_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_insert_emoticon_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_restaurant_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_restaurant_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_free_breakfast_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_free_breakfast_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_local_drink_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_local_drink_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_bluetooth_searching_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_bluetooth_searching_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_bluetooth_searching_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_bluetooth_searching_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_restaurant_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_restaurant_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_restaurant_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_restaurant_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_insert_emoticon_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_insert_emoticon_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_fastfood_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_fastfood_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_local_drink_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_local_drink_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_insert_emoticon_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_insert_emoticon_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_free_breakfast_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_free_breakfast_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_dialpad_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_dialpad_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_headset_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_headset_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_local_grocery_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_local_grocery_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_free_breakfast_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_free_breakfast_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_bluetooth_searching_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_bluetooth_searching_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\layout_image.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\layout\\image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_restaurant_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_restaurant_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_local_airport_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_local_airport_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_local_pharmacy_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_local_pharmacy_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_local_pharmacy_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_local_pharmacy_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_fastfood_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-mdpi\\baseline_fastfood_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_bluetooth_searching_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-hdpi\\baseline_bluetooth_searching_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_store_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_store_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_local_pharmacy_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_local_pharmacy_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_restaurant_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xhdpi\\baseline_restaurant_black_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_local_pharmacy_black_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\ReflexChecker\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_local_pharmacy_black_48.png"
+    }
+]

@@ -1,0 +1,15 @@
+<resources>
+     <string-array name="game_level">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Expert</item>
+    </string-array>
+    <string-array name="game_level_values">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Expert</item>
+    </string-array>
+
+</resources>
