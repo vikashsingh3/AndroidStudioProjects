@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Online Ticket</string>
+    <string name="next">Next</string>
+    <string name="hello_world_how">Hello World</string>
+    <string name="welcome">Welcome</string>
+    <string name="ticket">Ticket#</string>
+    <string name="issue">Issue#</string>
+    <string name="status">Status</string>
+    <string name="created_date">Created Date</string>
+    <string name="tickets">Tickets</string>
+    <string name="please_wait_this_may_take_a_moment">Please wait! This may take a moment.</string>
+</resources>
